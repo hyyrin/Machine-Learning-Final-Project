@@ -1,4 +1,4 @@
-# HTML 2024 Fall Final Project : MLB Prediction 
+# HTML 2024 Fall Final Project Stage 2
 
 * The code for data fetching and data preprocessing are referenced from [arjun-prabhakar/mlb_outcomes](https://github.com/arjun-prabhakar/mlb_outcomes)
 * You are prohibited to acquire additional data from any sources including the source above.
